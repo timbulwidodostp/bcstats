@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'bcstats': Compare survey and back check data, producing a data set of comparisons Use bcstats With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f bcimport.ado
+f bcstats.ado
+f bcstats.sthlp
+f cscript_bcstats.ado
